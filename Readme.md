@@ -1,45 +1,45 @@
 # Portfolio
 
-Bienvenue dans mon portfolio. Ce dépôt contient deux projets principaux : **CodeHawks Audit** et **Cyfrin Formation**. Ces projets démontrent mes compétences en développement logiciel, en cybersécurité et en formation.
+Welcome to my portfolio. This repository contains two main projects: **CodeHawks Audit** and **Cyfrin Formation**. These projects demonstrate my skills in software development, cybersecurity, and training.
 
-## Structure du dépôt
+## Repository Structure
 
-Le dépôt est organisé en deux répertoires principaux :
+The repository is organized into two main directories:
 
 - `CodeHawks Audit/`
 - `Cyfrin Formation/`
 
 ### CodeHawks Audit
 
-**CodeHawks Audit** est une plateforme web qui propose plusieurs projets permettant de réaliser des audits en Web3. Elle a été conçue pour identifier et analyser les vulnérabilités de sécurité dans les applications décentralisées. 
+**CodeHawks Audit** is a web platform that offers several projects for conducting Web3 audits. It is designed to identify and analyze security vulnerabilities in decentralized applications. This project includes tools and scripts that automate the security audit process, generate detailed reports on found vulnerabilities, and provide recommendations to improve application security.
 
-#### Points forts
+#### Highlights
 
-- **Automatisation de l'audit de sécurité** : Utilisation de scripts pour scanner les applications et détecter les failles de sécurité.
-- **Rapports détaillés** : Génération de rapports complets qui décrivent les vulnérabilités et leur impact potentiel.
-- **Recommandations de sécurité** : Fourniture de conseils pratiques pour renforcer la sécurité des applications.
+- **Automated Security Audits**: Uses scripts to scan applications and detect security flaws.
+- **Detailed Reports**: Generates comprehensive reports that describe vulnerabilities and their potential impact.
+- **Security Recommendations**: Provides practical advice to strengthen application security.
 
 ### Cyfrin Formation
 
-**Cyfrin Formation** est un projet qui regroupe les rapports liés à la formation pour devenir auditeur en sécurité Web3. Il a été développé pour aider les utilisateurs à acquérir des compétences en cybersécurité à travers des cours interactifs et des exercices pratiques.
+**Cyfrin Formation** is a project that compiles reports related to training to become a Web3 security auditor. It was developed to help users acquire cybersecurity skills through interactive courses and practical exercises. This project offers training modules covering both basic and advanced cybersecurity concepts, as well as assessments to test the acquired knowledge.
 
-#### Points forts
+#### Highlights
 
-- **Cours interactifs** : Modules de formation interactifs pour faciliter l'apprentissage des concepts de cybersécurité.
-- **Exercices pratiques** : Activités pratiques pour appliquer les connaissances théoriques.
-- **Évaluations et quiz** : Tests et quiz pour évaluer la compréhension des concepts enseignés.
+- **Interactive Courses**: Interactive training modules to facilitate the learning of cybersecurity concepts.
+- **Practical Exercises**: Practical activities to apply theoretical knowledge.
+- **Assessments and Quizzes**: Tests and quizzes to evaluate the understanding of the taught concepts.
 
-## Objectifs du portfolio
+## Portfolio Objectives
 
-Ce portfolio a pour objectif de démontrer mes compétences en :
+This portfolio aims to demonstrate my skills in:
 
-- Développement de logiciels sécurisés
-- Analyse et audit de sécurité
-- Conception et développement de modules de formation
-- Application des meilleures pratiques en cybersécurité
+- Developing secure software
+- Security analysis and auditing
+- Designing and developing training modules
+- Applying best practices in cybersecurity
 
 ## Conclusion
 
-Ce portfolio illustre ma capacité à mener des projets complexes dans le domaine de la cybersécurité et de la formation. Il reflète mon engagement à améliorer la sécurité des applications et à partager mes connaissances avec d'autres à travers des programmes de formation structurés.
+This portfolio illustrates my ability to lead complex projects in the field of cybersecurity and training. It reflects my commitment to improving application security and sharing my knowledge with others through structured training programs.
 
-Merci de prendre le temps de consulter mon portfolio. N'hésitez pas à me contacter pour toute question ou pour discuter de potentielles opportunités de collaboration.
+Thank you for taking the time to review my portfolio. Please feel free to contact me with any questions or to discuss potential collaboration opportunities.
